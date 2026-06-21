@@ -1,2 +1,6 @@
 print ("Practica discretas")
 print ("practica domingo")
+print ("practica 3")
+print ("practica 4")
+print ("practica 5")
+print ("practica 6")
